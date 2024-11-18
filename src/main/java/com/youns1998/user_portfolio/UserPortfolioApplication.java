@@ -8,6 +8,7 @@ public class UserPortfolioApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(UserPortfolioApplication.class, args);
+		왜바뀐게없어
 	}
 
 }
